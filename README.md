@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/License-MIT-f0c000?style=flat-square" />
 </p>
 
-<p>A simple, beginner-friendly Java quiz application built with OOP principles —<br/>just 3 files, no setup hassle.</p>
+<p>A simple, beginner-friendly Java quiz application built with OOP principles :-<br/>just 3 files, no setup hassle.</p>
 
 [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [OOP Concepts](#oop-concepts) &nbsp;·&nbsp; [Running](#how-to-run) &nbsp;·&nbsp; [Roadmap](#roadmap)
 
@@ -34,7 +34,7 @@ A **console-based multiple-choice quiz** that tests your Java knowledge. The use
 - Instant right / wrong feedback after each answer
 - Final score with percentage
 - Performance message based on score range
-- Input validation — handles unexpected or empty inputs
+- Input validation :- handles unexpected or empty inputs
 - Option to play again at the end
 
 ---
@@ -63,7 +63,7 @@ SimpleQuizApp/
 
 ## Technologies Used
 
-<img src="https://img.shields.io/badge/Java-17%2B-f89820?style=flat-square&logo=openjdk&logoColor=white" /> &nbsp;Core Java only — no external libraries.
+<img src="https://img.shields.io/badge/Java-17%2B-f89820?style=flat-square&logo=openjdk&logoColor=white" /> &nbsp;Core Java only :- no external libraries.
 
 `Scanner` for console input &nbsp;·&nbsp; `ArrayList` for storing questions
 
@@ -81,10 +81,10 @@ SimpleQuizApp/
 ### Option 2 &nbsp;·&nbsp; Terminal
 
 ```bash
-# Step 1 — Compile all files
+# Step 1 :- Compile all files
 javac Main.java Question.java QuizApp.java
 
-# Step 2 — Run the app
+# Step 2 :- Run the app
 java Main
 ```
 
@@ -170,10 +170,11 @@ Would you like to play again? (y/n):
 
 ## License
 
-Released under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+Released under the **MIT License** :- see the [LICENSE](LICENSE) file for details.
 
 ---
 
 <div align="center">
   <sub>Built by <a href="https://github.com/nishantnirwan">Nishant Yadav</a></sub>
+
 </div>
